@@ -1,0 +1,21 @@
+{
+  "name": "broswer-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.22",
+    "@openai/agents": "^0.0.17",
+    "@openai/agents-extensions": "^0.0.17",
+    "dotenv": "^17.2.1",
+    "playwright": "^1.55.0",
+    "zod": "^3.25.76"
+  }
+}
